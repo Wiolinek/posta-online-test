@@ -1,0 +1,20 @@
+{
+  "name": "postaonline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.8.6"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
